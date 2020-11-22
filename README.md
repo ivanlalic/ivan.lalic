@@ -1,0 +1,3 @@
+This is my portfolio and I'll try to keep it updated.
+
+HTML, JS, CSS and a few tweats like scrollreveal...
